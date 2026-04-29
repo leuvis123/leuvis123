@@ -1,16 +1,41 @@
-## Hi there 👋
+Merhaba, ben Emre
 
-<!--
-**leuvis123/leuvis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme süreçlerine özellikle uygulamalı yönüyle odaklanıyorum. Öğrendiğim teknolojileri gerçek projelerde kullanmayı ve uçtan uca sistemler geliştirmeyi seviyorum.
 
-Here are some ideas to get you started:
+🚀 Hakkımda
+- Full-stack projeler geliştiriyorum
+- Backend sistem tasarımı ve veri akışı üzerine yoğunlaşıyorum
+- Süreçleri otomasyon ile optimize etmeyi seviyorum
+- Performans ve ölçeklenebilirlik benim için önemli
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Kullandığım Teknolojiler
+
+ Programlama Dilleri
+- Python  
+- C++  
+- C#  
+- JavaScript  
+
+ Web Teknolojileri
+- React  
+- ASP.NET Core  
+- HTML / CSS  
+
+###  Otomasyon & Veritabanı
+- Selenium  
+- MSSQL / SQL Server  
+
+###  Diğer Araçlar
+- Git & GitHub  
+- Ağ simülasyonları (SDN)  
+
+##  Neler Yapıyorum?
+- Full-stack yönetim sistemleri geliştiriyorum  
+- Veri analizi projeleri üzerinde çalışıyorum  
+- Python ile web otomasyonu ve botlar geliştiriyorum  
+- İş süreçlerini hızlandıracak çözümler üretiyorum  
+
+##  Hedefim
+Yazılımı sadece kod yazmak olarak değil, gerçek problemleri çözen ve değer üreten sistemler kurma aracı olarak görmek ve bu yönde kendimi sürekli geliştirmek.
+
+---
