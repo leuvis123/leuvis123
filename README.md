@@ -1,14 +1,14 @@
-Merhaba, ben Emre
+Merhaba, ben Mustafa Emre
 
-Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme süreçlerine özellikle uygulamalı yönüyle odaklanıyorum. Öğrendiğim teknolojileri gerçek projelerde kullanmayı ve uçtan uca sistemler geliştirmeyi seviyorum.
+Blgisayar Mühendisliği öğrencisiyim. Backend sistemler, web otomasyonu ve modern web teknolojileri ile ilgileniyorum. Süreçleri otomasyon ile daha verimli hale getirmek benim için önemlidir.
 
-🚀 Hakkımda
+
+### Hakkımda
 - Full-stack projeler geliştiriyorum
-- Backend sistem tasarımı ve veri akışı üzerine yoğunlaşıyorum
 - Süreçleri otomasyon ile optimize etmeyi seviyorum
 - Performans ve ölçeklenebilirlik benim için önemli
 
-🛠 Kullandığım Teknolojiler
+### Kullandığım Teknolojiler
 
  Programlama Dilleri
 - Python  
@@ -23,19 +23,16 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme süreçlerine 
 
 ###  Otomasyon & Veritabanı
 - Selenium  
-- MSSQL / SQL Server  
-
-###  Diğer Araçlar
-- Git & GitHub  
-- Ağ simülasyonları (SDN)  
+- MSSQL / SQL Server   
 
 ##  Neler Yapıyorum?
 - Full-stack yönetim sistemleri geliştiriyorum  
-- Veri analizi projeleri üzerinde çalışıyorum  
-- Python ile web otomasyonu ve botlar geliştiriyorum  
-- İş süreçlerini hızlandıracak çözümler üretiyorum  
+- Python ile web otomasyonu geliştiriyorum  
 
 ##  Hedefim
 Yazılımı sadece kod yazmak olarak değil, gerçek problemleri çözen ve değer üreten sistemler kurma aracı olarak görmek ve bu yönde kendimi sürekli geliştirmek.
+
+##  Bana nasıl ulaşabilirsin
+<emresahan799@gmail.com>
 
 ---
